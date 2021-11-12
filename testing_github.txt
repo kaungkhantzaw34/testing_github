@@ -1,0 +1,11 @@
+What I need to learn is 
+
+python (Advanced Level) 32
+linux (ubuntu)
+3D designing (Solid Works)
+Electronics concepts
+Computer vision (OpenCV)
+ROS (robot operating system)
+Maths
+DBMS (Database Management System)(MySQL)
+c++ (Advanced Level)
